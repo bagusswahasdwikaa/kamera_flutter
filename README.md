@@ -1,4 +1,4 @@
-# Praktikum 1
+# Praktikum 1 - Mengambil Foto dengan Kamera di Flutter
 
 ### **Take A Picture**
 
